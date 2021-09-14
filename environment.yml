@@ -1,0 +1,21 @@
+name: ccdmo-chippy
+dependencies:
+  - pip=21.2.4=py37_1
+  - pip:
+    - cplex==12.10.0.0
+    - cycler==0.10.0
+    - decorator==4.4.2
+    - docloud==1.0.375
+    - docplex==2.14.186
+    - idna==2.10
+    - kiwisolver==1.2.0
+    - matplotlib==3.2.2
+    - minizinc==0.4.2
+    - numpy==1.19.0
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+    - requests==2.22.0
+    - six==1.12.0
+    - urllib3==1.25.6
+    - z3-solver==4.8.8.0
+
