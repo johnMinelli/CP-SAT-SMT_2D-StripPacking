@@ -1,4 +1,4 @@
-#CP-SAT-SMT 2D Strip Packing problem
+# CP-SAT-SMT 2D Strip Packing problem
 2D Strip Packing problem solved with different approaches of combinatorial optimization.
 The resolution process was faced with a constraint programming implementation, and with a SAT solver approach both in a constrained SAT formulation and in the more expressive SMT one.
 
